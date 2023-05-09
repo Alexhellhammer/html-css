@@ -1,0 +1,13 @@
+div{
+    border-style: solid;
+}
+p{
+    width: 80%;
+    color:blueviolet;
+    text-align: justify;
+}
+a{
+    width: 25%;
+    color: gold;
+    text-justify: distribute;
+}

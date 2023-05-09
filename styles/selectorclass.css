@@ -1,0 +1,20 @@
+.box{
+    border-style: dashed;
+    background-color: blueviolet;
+    font-size: xx-small;
+    width: 45% ;
+    text-align: justify;
+}
+.mainletter{
+    font-size: x-large;
+    border: 0cqmax;
+    color: rgb(236, 233, 233);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.otterletter{
+    width: 80%;
+    flood-color: aqua;
+    color: rgb(252, 255, 47);
+    font-family: sans-serif;
+    
+}

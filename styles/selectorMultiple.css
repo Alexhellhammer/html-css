@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+    border: 5px;
+}
+p{
+    color: blue;
+}
+#maintext{
+    color: yellowgreen;
+}
+.mainletter{
+    color: aqua;
+    font-family: cursive;
+}
+div{
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}.stylediv{
+    background-color: rgb(25, 0, 255);
+    color: aliceblue;
+}
+#box{
+    width: 40%;
+    color: plum;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
