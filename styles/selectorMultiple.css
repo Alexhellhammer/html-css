@@ -22,7 +22,7 @@ div{
 }
 #box{
     width: 40%;
-    color: plum;
+    color: rgb(221, 160, 221);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+    background-color: green;
 }
